@@ -103,8 +103,13 @@ python inference.py \
 
 *Training vs Validation Loss and Dice Scores*
 
-![Loss Curve](./metrics/loss_curve.png)
-![Dice Score](./metrics/all_dice.png)
+<table>
+  <tr>
+    <td><img src="./metrics/loss_curve.png" width="400" ></td> 
+    <td><img src="./metrics/all_dice.png" width="400" ></td>
+  </tr>
+</table>
+
 
 
 ---
