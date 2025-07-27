@@ -98,6 +98,6 @@ python inference.py \
 
 ### 🎥 3D Visualization Snapshot
 
-![3D Visualization](./inference.mp4)
+![3D Visualization](./inference.gif)
 
 ---
