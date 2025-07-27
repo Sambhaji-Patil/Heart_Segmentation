@@ -1,4 +1,8 @@
-# 🫀 3D Heart Left Atrium Segmentation using UNet3D
+# 3D Heart Left Atrium Segmentation using UNet3D
+
+![3D Visualization](./inference.gif)
+
+---
 
 This project focuses on the **segmentation of the left atrium** from volumetric CT scans using a **custom 3D U-Net architecture**. Built entirely with **PyTorch**, the pipeline includes:
 
@@ -87,17 +91,14 @@ python inference.py \
 
 ---
 
-## 🖼️ Visual Results
+## Visual Results
 
-### 📉 Metrics Graphs
+### Metrics Graphs
 
 *Training vs Validation Loss and Dice Scores*
 
 ![Loss Curve](./metrics/loss_curve.png)
 ![Dice Score](./metrics/all_dice.png)
 
-### 🎥 3D Visualization Snapshot
-
-![3D Visualization](./inference.gif)
 
 ---
