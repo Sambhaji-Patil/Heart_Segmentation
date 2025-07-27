@@ -1,6 +1,12 @@
 # 3D Heart Left Atrium Segmentation using UNet3D
 
-![3D Visualization](./inference.gif)
+<table>
+  <tr>
+    <td><img src="./inference.gif" width="400" height="160"></td> 
+    <td><img src="heart.png" width="400" height="150"></td>
+  </tr>
+</table>
+
 
 ---
 
